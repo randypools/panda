@@ -5,3 +5,7 @@ Homepage - https://git.io/J1SA0
 https://raw.githubusercontent.com/randypools/panda/main/pandam1b.json - https://tinyurl.com/2w4cxb4e
 
 https://raw.githubusercontent.com/randypools/panda/main/pandae1a.json - https://git.io/J1SbS
+
+https://raw.githubusercontent.com/randypools/panda/main/red_panda_64x64.png - https://tinyurl.com/34y4kvj3
+
+https://raw.githubusercontent.com/randypools/panda/main/red_panda_400x400.png - https://tinyurl.com/5ye38as3
